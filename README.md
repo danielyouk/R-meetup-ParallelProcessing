@@ -2,7 +2,7 @@
 
 This repository contains the materials and code examples presented by Daniel at the Korean R Meetup, sponsored by Kyobo Life Insurance. The audience primarily comprised professionals from the financial sector. The presentation showcased the power of parallel processing in financial analysis, leveraging both Python and R.
 
-![Presentation](./Quant_Daniel.jpeg)
+![Presentation](./Quant_Daniel.png)
 
 ## Presentation Overview
 
